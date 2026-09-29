@@ -48,15 +48,27 @@ history — see `sessions/` for how we got here.
 
 ## Thread 2 — AI / equipment automation
 
-- Not yet started. First question queued: which problem is automation
-  actually meant to solve — labor cost, labor scarcity, safety, or
-  utilization? Each points to a different vendor/solution path.
+- **Live open question: teleop (proven, near-term utilization gain) vs.
+  full-autonomy pilot (new, riskier, becomes part of the BDX platform
+  story)?** Mark's answer so far: genuinely undecided, still brainstorming.
+  See `sessions/2026-09-29.md` round 2 for the vendor landscape pull this
+  is based on (Bedrock Robotics for full autonomy, Cat Command for teleop,
+  Built Robotics for retrofit + union training partnership).
+- Underlying question still not separately answered: which problem is
+  automation actually meant to solve — labor cost, labor scarcity, safety,
+  or utilization? Worth pinning down explicitly, it'll break the
+  teleop-vs-autonomy tie.
 - Retrofit-vs-buy-new decision for the existing fleet: not yet scoped.
   Needs a fleet inventory pass before it's a real question rather than an
   abstract one.
 - Workforce / public-agency communication plan for automation adoption:
-  not yet discussed. Relevant given Kindhouse Advisory's public-agency and
-  prevailing-wage-adjacent work.
+  not yet discussed, but now has a concrete data point — Built Robotics'
+  IUOE training partnership is a model worth looking at if the fleet is
+  union.
+- New action item, independent of everything else: call the surety/GL
+  carrier about how autonomous equipment is treated before it's anywhere
+  near a public bid. No CA-specific regulation found; insurance/bonding is
+  case-by-case per carrier.
 
 ## Thread 3 — 6-12 month tech lookahead
 
